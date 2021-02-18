@@ -1,0 +1,15 @@
+# Pycharm config
+.idea/
+*.pyc
+
+# temporary files
+temp/
+venv/
+.vscode/
+build/
+dist/
+
+output.csv
+schedule.txt
+
+*.egg-info/

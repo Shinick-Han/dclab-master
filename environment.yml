@@ -1,0 +1,8 @@
+name: dclab
+dependencies:
+  - python=3.7
+  - pip
+  - pytest=5.4.*
+  - black=19.10b0
+  - pandas=1.0.*
+  - tabulate=0.8.*
